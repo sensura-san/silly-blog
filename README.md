@@ -6,24 +6,30 @@
 
 2. Create a folder for your blog (e.g. `kmutt-internship`)
 
-3. Add `index.md` file and start writing in markdown (add the post template below)
+3. Add `index.md` file and start writing in markdown
+   ### Add this template to your index.md:
+   ```yaml
+   title: Post about my internship
+   description: This post will cover what I did.
+   slug: kmutt-internship
+   date: 2025-01-01
+   lastMod: 2025-09-09
+   image: cover.jpg
+   categories:
+      - Example Category
+      - Blog
+   tags:
+      - Example Tag
+      - Coding
+   ```
+   - `title` & `description` sets the title & descrption respectively
+   - `slug` sets the url (e.g. `kmutt-internship` returns `localhost/p/kmutt-internship`
+   - `date` & `lastMod` sets creation date & last updated date respectively
+   - `image` sets the image URL (don't really need to touch)
+   - `categories` sets the categories (e.g. Blog, Guide, Meta)
+   - `tags` sets the tags (e.g. learning, presentation, project, hobby, friends, fun)
 
-```yaml
-title: Post about my internship
-description: This post will cover what I did.
-slug: kmutt-internship
-date: 2025-01-01
-lastMod: 2025-09-09
-image: cover.jpg
-categories:
-   - Example Category
-   - Blog
-tags:
-   - Example Tag
-   - Coding
-```
-
-4. (Optional) Add thumbnail image (named `cover.jpg`) 
+5. (Optional) Add thumbnail image (named `cover.jpg`) 
 
 ***
 
