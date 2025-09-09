@@ -2,7 +2,7 @@
 
 ## How to Create a blog post
 
-1. Open `content/page`
+1. Open `content/post`
 
 2. Create a folder for your blog (e.g. `kmutt-internship`)
 
