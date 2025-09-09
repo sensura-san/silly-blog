@@ -1,16 +1,15 @@
 # Setup
 
 ## [Install Hugo on Windows, using Winget](https://gohugo.io/installation/windows/)
+In **Windows Powershell** or **Powershell**,
 
-1. In **Windows Powershell** or **Powershell**,
-
-2. To install:
+To install:
 
    ```powershell
    winget install Hugo.Hugo.Extended
    ```
 
-3. (Optional) To uninstall:
+(Optional) To uninstall:
 
    ```powershel
    winget uninstall --name "Hugo (Extended)"
@@ -24,18 +23,9 @@ Clone the repository (This assumes you have already installed **Git**):
 git clone https://github.com/sensura-san/silly-blog.git "C:/your/preferred/directory"
 ```
 
-## Start a server (or just build)
-
-To build:
-
+Then change your working directory to the new repo, which lives under:
 ```powershell
-hugo
-```
-
-To run a development server (makes things easier as it automatically refreshes on file change):
-
-```powershell
-hugo server
+dir "C:/your/preferred/directory/silly-blog"
 ```
 
 # Usage Instructions
@@ -72,6 +62,20 @@ hugo server
    - `tags` sets the tags (e.g. learning, presentation, project, study, food, hobby, friends, fun)
    
 5. (Optional) Add thumbnail image (named `cover.jpg`) 
+
+## Start a server (or just build)
+
+To build the static pages:
+
+```powershell
+hugo
+```
+
+To run a development server (makes things easier as it automatically refreshes on file change):
+
+```powershell
+hugo server
+```
 
 ***
 
