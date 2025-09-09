@@ -1,3 +1,43 @@
+# Setup
+
+## [Install Hugo on Windows, using Winget](https://gohugo.io/installation/windows/)
+
+1. In **Windows Powershell** or **Powershell**,
+
+2. To install:
+
+   ```powershell
+   winget install Hugo.Hugo.Extended
+   ```
+
+3. (Optional) To uninstall:
+
+   ```powershel
+   winget uninstall --name "Hugo (Extended)"
+   ```
+
+## Clone Repository
+
+Clone the repository (This assumes you have already installed **Git**):
+
+```powershell
+git clone https://github.com/sensura-san/silly-blog.git "C:/your/preferred/directory"
+```
+
+## Start a server (or just build)
+
+To build:
+
+```powershell
+hugo
+```
+
+To run a development server (makes things easier as it automatically refreshes on file change):
+
+```powershell
+hugo server
+```
+
 # Usage Instructions
 
 ## How to Create a blog post
@@ -9,6 +49,7 @@
 3. Add `index.md` file and start writing in markdown
    ### Add this template to your index.md:
    ```yaml
+   ---
    title: Post about my internship
    description: This post will cover what I did.
    slug: kmutt-internship
@@ -21,14 +62,15 @@
    tags:
       - Example Tag
       - Coding
+   ---
    ```
-   - `title` & `description` sets the title & descrption respectively
+   - `title` & `description` sets the *title* & *description* respectively
    - `slug` sets the url (e.g. `kmutt-internship` returns `localhost/p/kmutt-internship`
-   - `date` & `lastMod` sets creation date & last updated date respectively
-   - `image` sets the image URL (don't really need to touch)
+   - `date` & `lastMod` sets *creation date* & *last updated date* respectively
+   - `image` sets the image URL (no need to change URL; you may remove this property if you don't want it)
    - `categories` sets the categories (e.g. Blog, Guide, Meta)
-   - `tags` sets the tags (e.g. learning, presentation, project, hobby, friends, fun)
-
+   - `tags` sets the tags (e.g. learning, presentation, project, study, food, hobby, friends, fun)
+   
 5. (Optional) Add thumbnail image (named `cover.jpg`) 
 
 ***
