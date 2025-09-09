@@ -1,19 +1,24 @@
 # Setup
 
-## [Install Hugo on Windows, using Winget](https://gohugo.io/installation/windows/)
+## [Install Hugo](https://gohugo.io/installation/windows/) and dependencies on Winget
 In **Windows Powershell** or **Powershell**,
 
-To install:
+To install Hugo:
 
    ```powershell
    winget install Hugo.Hugo.Extended
    ```
 
-(Optional) To uninstall:
+(Optional) To uninstall Hugo:
 
-   ```powershel
+   ```powershell
    winget uninstall --name "Hugo (Extended)"
    ```
+
+To install Go language (needed to run code):
+```powershell
+winget install --id=GoLang.Go  -e
+```
 
 ## Clone Repository
 
