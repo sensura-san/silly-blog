@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://sensura-san.github.io/silly-blog/"
 languageCode = "en-us"
 title = "Placeholder & Co."
 
