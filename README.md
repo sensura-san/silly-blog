@@ -1,3 +1,34 @@
+# Usage Instructions
+
+## How to Create a blog post
+
+1. Open `content/page`
+
+2. Create a folder for your blog (e.g. `kmutt-internship`)
+
+3. Add `index.md` file and start writing in markdown (add the post template below)
+
+```yaml
+title: Post about my internship
+description: This post will cover what I did.
+slug: kmutt-internship
+date: 2025-01-01
+lastMod: 2025-09-09
+image: cover.jpg
+categories:
+   - Example Category
+   - Blog
+tags:
+   - Example Tag
+   - Coding
+```
+
+4. (Optional) Add thumbnail image (named `cover.jpg`) 
+
+***
+
+
+
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
 # Hugo Theme Stack Starter Template
@@ -45,7 +76,7 @@ If you want to build this site using another static page hosting, you need to ma
 
 <details>
   <summary>Vercel</summary>
-  
+
 You need to overwrite build command to install manually Go:
 
 ```
