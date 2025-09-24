@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blogs
 description: Where we document our adventures!
 image: cover.jpg
 
