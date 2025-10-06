@@ -31,7 +31,8 @@
           "name": "authors",
           "type": "choice",
           "choices": [
-            "Andreaa"
+            "Andreaa",
+            "Firdaus"
           ]
         },
         {
