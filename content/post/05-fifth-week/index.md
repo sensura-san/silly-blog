@@ -2,8 +2,8 @@
 title: "Week 5: Grinding Projects"
 description: Self learning and apply them to projects.
 slug: fifth-week
-date: 2025-10-10T10:02:15.191Z
-lastMod: 2025-10-09T10:02:21.773Z
+date: 2025-10-06T10:02:15.191Z
+lastMod: 2025-10-06T10:02:21.773Z
 authors:
     - Firdaus
 image: cover-n16.jpg
