@@ -21,4 +21,4 @@ For simplicity, I came up with a different approach of web scraping from Google 
 
 Editing in Ghost website builder is not only simple but also rich in content editing. It is a useful website for both developers and content editors to update or generate posts. 
 
-![Publication page after uploading all the publications](ic2_pubs.jpg)
+![Publication page after uploading all the publications](ic2_pubs.png)
