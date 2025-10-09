@@ -2,7 +2,7 @@
 title: "Week 2: in Bangkok for our KMUTT Internship"
 description: Plans and ideas on projects.
 slug: second-week
-date: 2025-09-21 00:02:10+0000
+date: 2025-09-21T10:02:15.191Z
 lastMod: 2025-09-21 12:12:12+0000
 authors:
     - Firdaus
