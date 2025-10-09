@@ -1,6 +1,6 @@
 ---
-title: "Week 5: Artifical Intelligence and such"
-description: Plans and ideas on projects.
+title: "Week 5: Grinding Projects"
+description: Self learning and apply them to projects.
 slug: fifth-week
 date: 2025-10-09T10:02:15.191Z
 lastMod: 2025-19-06T10:02:21.773Z
