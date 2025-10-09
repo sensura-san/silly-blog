@@ -1,3 +1,4 @@
+---
 title: "Week 5: Grinding Projects"
 description: Self learning and apply them to projects.
 slug: fifth-week
@@ -10,6 +11,8 @@ categories:
     - blog
 tags: 
     - week5
+
+---
 
 # Project Update
 
