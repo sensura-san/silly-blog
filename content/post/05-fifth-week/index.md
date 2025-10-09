@@ -9,6 +9,7 @@ authors:
 image: cover-n16.jpg
 categories:
     - blog
+    - projects
 tags: 
     - week5
 ---
