@@ -1,8 +1,8 @@
 ---
-title: Second week in Bangkok for our KMUTT Internship
+title: "Week 2: in Bangkok for our KMUTT Internship"
 description: Plans and ideas on projects.
 slug: second-week
-date: 2025-09-21 00:02:10+0000
+date: 2025-09-21T10:02:15.191Z
 lastMod: 2025-09-21 12:12:12+0000
 authors:
     - Firdaus
@@ -19,7 +19,8 @@ Andreaa and I had an opportunity to explore different kinds of projects. One of 
 
 # Project Updates
 
-After getting familiar with the Ghost website builder, Andreaa and I fixed the responsiveness of the IC2 Website. We also seeked guidance from KM for the publication sources that was web-scraped using python.
+After getting familiar with the Ghost website builder, Andreaa and I fixed the responsiveness of the IC2 Website. We also seeked guidance from KM for the publication sources that was web-scraped using python. 
 
+![Responsiveness before we fix](responsiveness_b4.jpg)
 
-# Conclusion
+![Responsiveness after we fix](responsiveness_after.jpg)
