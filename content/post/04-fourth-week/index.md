@@ -2,14 +2,14 @@
 title: "Week 4: Code golfing for the advancement of AI"
 description: We were introduced to a specific code golfing challenge by Prof. Jonathan, and to top it off we were lucky enough to catch Navaratri Festival at Silom!
 slug: fourth-week
-date: 2025-10-06T10:02:15.191Z
+date: 2025-10-03T13:11:54.000Z
 lastMod: 2025-10-06T10:02:21.773Z
 authors:
     - Andreaa
 image: cover.png
 categories:
     - blog
-tags: 
+tags:
     - week4
 ---
 
