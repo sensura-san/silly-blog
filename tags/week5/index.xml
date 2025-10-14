@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Week5 on Placeholder &amp; Co.</title><link>https://sensura-san.github.io/silly-blog/tags/week5/</link><description>Recent content in Week5 on Placeholder &amp; Co.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 10:02:21 +0000</lastBuildDate><atom:link href="https://sensura-san.github.io/silly-blog/tags/week5/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 5: Grinding Projects</title><link>https://sensura-san.github.io/silly-blog/p/fifth-week/</link><pubDate>Mon, 06 Oct 2025 10:02:15 +0000</pubDate><guid>https://sensura-san.github.io/silly-blog/p/fifth-week/</guid><description>&lt;img src="https://sensura-san.github.io/silly-blog/p/fifth-week/cover-n16.jpg" alt="Featured image of post Week 5: Grinding Projects" /&gt;&lt;h1 id="project-update"&gt;Project Update
+&lt;/h1&gt;&lt;p&gt;For simplicity, I came up with a different approach of web scraping from Google Scholar by using SerpAPI. I only called the API once and save it as markdown which the texts will then be uploaded to the Publication Page. Using markdown in the Ghost website builder allows future editors to add in publications with ease.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/p/fifth-week/md_pubs.jpg"
+width="1137"
+height="612"
+srcset="https://sensura-san.github.io/silly-blog/p/fifth-week/md_pubs_hu_72fa908a5c6fa049.jpg 480w, https://sensura-san.github.io/silly-blog/p/fifth-week/md_pubs_hu_fc2e173529d886.jpg 1024w"
+loading="lazy"
+alt="Publications before uploading to ghost website"
+class="gallery-image"
+data-flex-grow="185"
+data-flex-basis="445px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Editing in Ghost website builder is not only simple but also rich in content editing. It is a useful website for both developers and content editors to update or generate posts.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/p/fifth-week/ic2_pubs.png"
+width="1293"
+height="782"
+srcset="https://sensura-san.github.io/silly-blog/p/fifth-week/ic2_pubs_hu_c3d1de3e78dff71c.png 480w, https://sensura-san.github.io/silly-blog/p/fifth-week/ic2_pubs_hu_d59074c76e24f958.png 1024w"
+loading="lazy"
+alt="Publication page after uploading all the publications"
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="396px"
+&gt;&lt;/p&gt;</description></item></channel></rss>

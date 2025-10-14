@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Week2 on Placeholder &amp; Co.</title><link>https://sensura-san.github.io/silly-blog/tags/week2/</link><description>Recent content in Week2 on Placeholder &amp; Co.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Sep 2025 12:12:12 +0000</lastBuildDate><atom:link href="https://sensura-san.github.io/silly-blog/tags/week2/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 2: in Bangkok for our KMUTT Internship</title><link>https://sensura-san.github.io/silly-blog/p/second-week/</link><pubDate>Sun, 21 Sep 2025 10:02:15 +0000</pubDate><guid>https://sensura-san.github.io/silly-blog/p/second-week/</guid><description>&lt;img src="https://sensura-san.github.io/silly-blog/p/second-week/cover2.jpg" alt="Featured image of post Week 2: in Bangkok for our KMUTT Internship" /&gt;&lt;h1 id="exploring-projects"&gt;Exploring Projects
+&lt;/h1&gt;&lt;p&gt;Andreaa and I had an opportunity to explore different kinds of projects. One of it is to collaborate with the full-time students and work on their capstone projects. KM, one of the full-time student suggest to us that Andreaa and I can cotribute to his one of his projects which is Audio-Language Models which involves a mixture of AI and cybersecurity. To elaborate further, KM&amp;rsquo;s project is mainly focus on the frequency of the Audio Language Models that converts from audio to text. He used that to determine if the prompts are able to bypass the model&amp;rsquo;s safeguard and produce harmful responses.&lt;/p&gt;
+&lt;h1 id="project-updates"&gt;Project Updates
+&lt;/h1&gt;&lt;p&gt;After getting familiar with the Ghost website builder, Andreaa and I fixed the responsiveness of the IC2 Website. We also seeked guidance from KM for the publication sources that was web-scraped using python.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/p/second-week/responsiveness_b4.jpg"
+width="1300"
+height="688"
+srcset="https://sensura-san.github.io/silly-blog/p/second-week/responsiveness_b4_hu_11ea1855e7da5267.jpg 480w, https://sensura-san.github.io/silly-blog/p/second-week/responsiveness_b4_hu_a163f44e52c0965f.jpg 1024w"
+loading="lazy"
+alt="Responsiveness before we fix"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="453px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/p/second-week/responsiveness_after.jpg"
+width="1271"
+height="697"
+srcset="https://sensura-san.github.io/silly-blog/p/second-week/responsiveness_after_hu_764e2d12106f3734.jpg 480w, https://sensura-san.github.io/silly-blog/p/second-week/responsiveness_after_hu_4d9f9e9d3d4dbf.jpg 1024w"
+loading="lazy"
+alt="Responsiveness after we fix"
+class="gallery-image"
+data-flex-grow="182"
+data-flex-basis="437px"
+&gt;&lt;/p&gt;</description></item></channel></rss>
