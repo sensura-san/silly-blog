@@ -17,12 +17,12 @@ tags:
 
 This week have been a very interesting week. Andreaa and I had a chance to walk around downtown of Bangkok and yes we went to one of the famous Thai Tea in Thailand. It's the Auntie Nid Thai Tea!
 <div style="text-align: center;">
-    <img src="auntie-nid.gif" alt="Auntie Nid performing her magic" width="400" height="600">
+    <img src="/content/post/06-week-six/img/auntie-nid.gif" alt="Auntie Nid performing her magic" width="400" height="600">
 </div>
 
 We waited for one hour as the queue was very long. Thankfully, there were a line of chairs so customers can just sit. But the most shocking part was the price! For 1.68 SGD, it's worth the price.
 <div style="text-align: center;">
-    <img src="auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
+    <img src="/content/post/06-week-six/img/auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
 </div>
 
 
@@ -31,10 +31,10 @@ We waited for one hour as the queue was very long. Thankfully, there were a line
 We decided to explore the area near Chatuchak District because it is popular among young adults as there are dozens of cafes and restaurants there. We stumbled upon this hidden gem called **Ice Cream Somasorn** (located near Chulalongkorn University). As the title suggests, it is a dessert cafe that serves ice cream on top of a sundae. We chose the most popular one which is Banana Cream Brulee and Kopi Tiramisu.
 <div class="content-gallery" style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
     <figure style="margin:0;">
-        <img src="icecream.gif" alt="Ice Cream Somasorn" style="max-width:320px; height:auto;">
+        <img src="/content/post/06-week-six/img/icecream.gif" alt="Ice Cream Somasorn" style="max-width:320px; height:auto;">
     </figure>
     <figure style="margin:0;">
-        <img src="icecream2.jpg" alt="Banana Cream Brulee and Kopi Tiramisu" style="max-width:320px; height:auto;">
+        <img src="/content/post/06-week-six/img/icecream2.jpg" alt="Banana Cream Brulee and Kopi Tiramisu" style="max-width:320px; height:auto;">
     </figure>
 </div>
 
