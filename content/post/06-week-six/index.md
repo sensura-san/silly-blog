@@ -30,16 +30,8 @@ We waited for one hour as the queue was very long. Thankfully, there were a line
 
 We decided to explore the area near Chatuchak District because it is popular among young adults as there are dozens of cafes and restaurants there. We stumbled upon this hidden gem called **Ice Cream Somasorn** (located near Chulalongkorn University). As the title suggests, it is a dessert cafe that serves ice cream on top of a sundae. We chose the most popular one which is Banana Cream Brulee and Kopi Tiramisu.
 
-<div class="content-gallery" style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
-    <figure style="margin:0; text-align:center;">
-        <img src="img/icecream.gif" alt="Ice Cream Somasorn" style="width:308px; height:320px;">
-        <figcaption style="margin-top:8px; font-size:0.95em; color:#555;">Somasorn Ice Cream Signature Move</figcaption>
-    </figure>
-    <figure style="margin:0; text-align:center;">
-        <img src="img/icecream2.jpg" alt="Banana Cream Brulee and Kopi Tiramisu" style="max-width:320px; height:320px;">
-        <figcaption style="margin-top:8px; font-size:0.95em; color:#555;">Banana Crème Brûlée & Kopi Tiramisu </figcaption>
-    </figure>
-</div>
+![Somasorn Ice Cream Signature Move](img/icecream.gif) ![Banana Crème Brûlée & Kopi Tiramisu](img/icecream2.jpg)
+
 
 
 
