@@ -1,18 +1,18 @@
 ---
-title: "Week 6: Grinding Projects"
+title: "Week 6: Blog adventures"
 description: Exploring Bangkok Downtown Area
 slug: week-six
 date: 2025-10-06T10:02:15.191Z
 lastMod: 2025-10-06T10:02:21.773Z
 authors:
     - Firdaus
-image: cover-n16.jpg
+image: week-six-cover.jpg
 categories:
     - blog
 tags: 
     - week6
 ---
-#12-18 october - Remove this once done
+
 # Auntie Nid Thai Tea
 
 This week have been a very interesting week. Andreaa and I had a chance to walk around downtown of Bangkok and yes we went to one of the famous Thai Tea in Thailand. It's the Auntie Nid Thai Tea!
@@ -29,12 +29,15 @@ We waited for one hour as the queue was very long. Thankfully, there were a line
 # Dessert Hunting
 
 We decided to explore the area near Chatuchak District because it is popular among young adults as there are dozens of cafes and restaurants there. We stumbled upon this hidden gem called **Ice Cream Somasorn** (located near Chulalongkorn University). As the title suggests, it is a dessert cafe that serves ice cream on top of a sundae. We chose the most popular one which is Banana Cream Brulee and Kopi Tiramisu.
+
 <div class="content-gallery" style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
-    <figure style="margin:0;">
-        <img src="img/icecream.gif" alt="Ice Cream Somasorn" style="max-width:320px; height:auto;">
+    <figure style="margin:0; text-align:center;">
+        <img src="img/icecream.gif" alt="Ice Cream Somasorn" style="width:308px; height:320px;">
+        <figcaption style="margin-top:8px; font-size:0.95em; color:#555;">Somasorn Ice Cream Signature Move</figcaption>
     </figure>
-    <figure style="margin:0;">
-        <img src="img/icecream2.jpg" alt="Banana Cream Brulee and Kopi Tiramisu" style="max-width:320px; height:auto;">
+    <figure style="margin:0; text-align:center;">
+        <img src="img/icecream2.jpg" alt="Banana Cream Brulee and Kopi Tiramisu" style="max-width:320px; height:320px;">
+        <figcaption style="margin-top:8px; font-size:0.95em; color:#555;">Banana Crème Brûlée & Kopi Tiramisu </figcaption>
     </figure>
 </div>
 
