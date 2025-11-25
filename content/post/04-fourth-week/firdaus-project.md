@@ -6,7 +6,7 @@ date: 2025-10-26T13:11:54.000Z
 lastMod: 2025-10-26T10:02:21.773Z
 authors:
     - Firdaus
-image: cover2.png
+image: cover2.jpg
 categories:
     - projects
 tags:
