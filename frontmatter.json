@@ -53,5 +53,14 @@
       ]
     }
   ],
-  "frontMatter.git.enabled": false
+  "frontMatter.git.enabled": false,
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content/post",
+      "path": "[[workspace]]/content"
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313"
 }
