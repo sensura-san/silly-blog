@@ -6,7 +6,7 @@ date: 2025-09-30T10:02:15.191Z
 lastMod: 2025-09-30T10:02:21.773Z
 authors:
     - Firdaus
-image: week-six-cover.jpg
+image: cover2.jpg
 categories:
     - projects
 tags: 
