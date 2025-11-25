@@ -1,7 +1,7 @@
 ---
 title: "Week 5: Updates On IC2 Website"
 description: Publication Page Updates & New IC2 Member!
-slug: fifth-week
+slug: fifth-week-project1
 date: 2025-10-10T10:02:15.191Z
 lastMod: 2025-10-10T10:02:21.773Z
 authors:

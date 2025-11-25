@@ -1,7 +1,7 @@
 ---
 title: "Week 6: Exploring RAG"
 description: Retrieval Augmented Generation
-slug: week-six
+slug: week-six-project1
 date: 2025-10-18T10:02:15.191Z
 lastMod: 2025-10-18T10:02:10.773Z
 authors:

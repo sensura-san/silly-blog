@@ -1,7 +1,7 @@
 ---
 title: "Week 6: Blog adventures"
 description: Exploring Bangkok Downtown Area
-slug: week-six
+slug: week-six-blog1
 date: 2025-10-18T10:02:15.191Z
 lastMod: 2025-10-18T10:02:21.773Z
 authors:

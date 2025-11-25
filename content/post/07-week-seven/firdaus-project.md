@@ -1,7 +1,7 @@
 ---
 title: "Week 7: Meeting With Professor Tuul Triyason"
 description: Discussion related to Cybersecurity
-slug: week-six
+slug: week-seven-project1
 date: 2025-10-24T10:02:15.191Z
 lastMod: 2025-10-24T10:02:21.773Z
 authors:

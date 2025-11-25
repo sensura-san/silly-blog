@@ -1,7 +1,7 @@
 ---
 title: "Week 7: Makan Place nearby KMUTT"
 description: Western week
-slug: week-six
+slug: week-seven-blog1
 date: 2025-10-18T10:02:15.191Z
 lastMod: 2025-10-18T10:02:21.773Z
 authors:
