@@ -17,7 +17,7 @@ tags:
 
 I was curious on how to implement RAG into edge devices so I borrowed the Raspberry Pi 4 provided by IC2 and work my way through at the dorm. 
 
-![Raspberry Pi 4](img/rp4.jpg) 
+![Raspberry Pi 4](img/rp4.jpeg) 
 
 # Choosing The Right Embedding Models
 In my RAG system for Thailand climate awareness, I chose the **sentence-transformers/multi-qa-MiniLM-L6-cos-v1** embedding model for document retrieval. This model is specifically designed for question-answering tasks and performs well with multi-domain queries, making it ideal for my use case where users ask various questions about Thailand's climate data. I implemented the embedding functionality using HuggingFace Embeddings through LangChain, which allowed me to easily integrate the model with my FAISS vector store. The model efficiently converts both my document chunks and user queries into dense vector representations, enabling semantic search across my collection of PDFs, text files, and JSON documents containing Thailand climate information. I configured my system with a chunk size of 128 tokens and 20-token overlap to ensure optimal retrieval performance while maintaining context coherence.

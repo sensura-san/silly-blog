@@ -25,7 +25,7 @@ We arrived to find a massive queue—we’re talking a solid one-hour wait. Than
 
 Absolutely. The shocking part wasn't the line; it was the price. For just 1.68 SGD, we got a drink that completely lived up to the hype. Sweet, creamy, and incredibly affordable.
 <div style="text-align: center;">
-    <img src="img/auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
+    <img src="./img/auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
 </div>
 Address: 112 Thanon Mahannop, Sao Chingcha, Phra Nakhon, Bangkok 10200
 
