@@ -1,7 +1,7 @@
 ---
 title: "Week 4: Serp API"
 description: Web Scraping with Serp API
-slug: fourth-week-project1
+slug: fourth-week-project
 date: 2025-10-26T13:11:54.000Z
 lastMod: 2025-10-26T10:02:21.773Z
 authors:
