@@ -18,14 +18,14 @@ tags:
 This week has been an absolute whirlwind! Andreaa and I took a deep dive into downtown Bangkok, determined to tick a major item off our bucket list: the legendary Auntie Nid Thai Tea.
 
 <div style="text-align: center;">
-    <img src="img/auntie-nid.gif" alt="Auntie Nid performing her magic" width="400" height="600">
+    <img src="auntie-nid.gif" alt="Auntie Nid performing her magic" width="400" height="600">
 </div>
 
 We arrived to find a massive queue—we’re talking a solid one-hour wait. Thankfully, the shop knows their crowd; they had a line of chairs set up so we didn't have to stand in the heat. But was it worth the wait?
 
 Absolutely. The shocking part wasn't the line; it was the price. For just 1.68 SGD, we got a drink that completely lived up to the hype. Sweet, creamy, and incredibly affordable.
 <div style="text-align: center;">
-    <img src="./img/auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
+    <img src="auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
 </div>
 Address: 112 Thanon Mahannop, Sao Chingcha, Phra Nakhon, Bangkok 10200
 
@@ -39,7 +39,7 @@ It’s a dedicated dessert cafe that takes sundaes to the next level. We couldn'
 * **Banana Crème Brûlée:** Perfectly caramelized and smooth.
 * **Kopi Tiramisu:** A rich, coffee-infused delight that hit the spot.
 
-![Somasorn Ice Cream Signature Move](img/icecream.gif) ![Banana Crème Brûlée & Kopi Tiramisu](img/icecream2.jpg)
+![Somasorn Ice Cream Signature Move](icecream.gif) ![Banana Crème Brûlée & Kopi Tiramisu](img/icecream2.jpg)
 
 If you are in the area, this is a sweet stop you can't miss.
 
