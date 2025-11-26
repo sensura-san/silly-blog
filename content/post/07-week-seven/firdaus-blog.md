@@ -6,7 +6,7 @@ date: 2025-10-18T10:02:15.191Z
 lastMod: 2025-10-18T10:02:21.773Z
 authors:
     - Firdaus
-image: cover.jpg
+image: week-seven-cover.jpg
 categories:
     - blog
 tags: 

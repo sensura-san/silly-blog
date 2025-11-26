@@ -1,7 +1,7 @@
 ---
 title: "Week 6: Blog adventures"
 description: Exploring Bangkok Downtown Area
-slug: sixth-week-blog1
+slug: week-six-blog1
 date: 2025-10-18T10:02:15.191Z
 lastMod: 2025-10-18T10:02:21.773Z
 authors:
@@ -17,16 +17,15 @@ tags:
 
 This week has been an absolute whirlwind! Andreaa and I took a deep dive into downtown Bangkok, determined to tick a major item off our bucket list: the legendary Auntie Nid Thai Tea.
 
-<div style="text-align: center;">
-    <img src="img/auntie-nid.gif" alt="Auntie Nid performing her magic" width="400" height="600">
-</div>
+![Auntie Nid performing her magic](img/auntie-nid.gif) 
+
 
 We arrived to find a massive queue—we’re talking a solid one-hour wait. Thankfully, the shop knows their crowd; they had a line of chairs set up so we didn't have to stand in the heat. But was it worth the wait?
 
 Absolutely. The shocking part wasn't the line; it was the price. For just 1.68 SGD, we got a drink that completely lived up to the hype. Sweet, creamy, and incredibly affordable.
-<div style="text-align: center;">
-    <img src="img/auntie-nid-price.jpg" alt="40 Thai Baht for all drinks. That's a steal!" style="max-width: 400px; height: auto;">
-</div>
+
+![40 Thai Baht for all drinks. That's a steal!](img/auntie-nid-price.jpg) 
+
 Address: 112 Thanon Mahannop, Sao Chingcha, Phra Nakhon, Bangkok 10200
 
 # Dessert Hunting in the University District 🍦

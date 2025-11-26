@@ -6,7 +6,7 @@ date: 2025-10-10T10:02:15.191Z
 lastMod: 2025-10-10T10:02:21.773Z
 authors:
     - Firdaus
-image: cover-n16.jpg
+image: week-five-cover-n16.jpg
 categories:
     - projects
 tags: 
