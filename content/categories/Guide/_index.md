@@ -1,7 +1,7 @@
 ---
 title: Guides
 description: Some articles made along the way, after having learnt new things.
-image: cover.jpg
+image: week1-kmutt.jpg
 
 # Badge style
 style:
