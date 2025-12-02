@@ -15,7 +15,7 @@ tags:
 
 # Superior Room – Type I
 
-At first the room looked like it might be cramped, but it's actually pretty cozy. The layout is straightforward: a bed, a simple desk, and a little balcony that brings in good light and doubles as a quiet spot. We used the balcony for a small clothes rack — great for drying stuff without taking over the room.
+At first the room looked like it might be cramped, but it's actually pretty cozy. The layout is straightforward: a bed, a simple desk, and a little balcony that brings in good light and doubles as a quiet spot. We used the balcony for a small clothes rack — great for drying stuff without taking over the room. The rental cost for this room is 12000 Baht(roughly 486.82 SGD)
 
 Overall vibe: simple and functional. There's enough storage for the basics and a comfy setup for studying and sleeping — perfect for settling into the semester.
 
