@@ -14,15 +14,15 @@ tags:
 ---
 
 ## Hua Lamphong Railway Station
-My manager, one undergraduate student, Andreaa and I went to King Mongkut's Institute of Technology Ladkrabang (KMITL) to meet with Professor Kitsuchart Pasupa to show around the SIT campus. 
+My manager, an undergrad, Andreaa, and I set off for King Mongkut's Institute of Technology Ladkrabang (KMITL) to meet Professor Kitsuchart Pasupa and get a behind-the-scenes look at the SIT campus.
 
-At first, we all meet up at Hua Lamphong Railway Station because my manager suggested to try and experience an old school train ride! When we first reached the station, it was so spacious and it kinda give the nostalgia vibes..
+We all gathered at Hua Lamphong Railway Station, thanks to my manager’s idea to hop on an old-school train for the full experience. The station itself was massive—seriously, it felt like stepping into a time machine with all the retro vibes.
 ![Main view](img/week12-station.jpg)
 <figure>
 <figcaption>Hua Lamphong Railway Station</figcaption>
 </figure>
 
-After passing through the main door at the middle, we saw two trains for display and not gonna lie, it kinda looks like a mixture of Mr Bean Holiday and Harry Potter! The fare from Hua Lamphong to KMITL was very cheap! It was only 6 Baht!
+After strolling through the main entrance, we spotted two trains on display. Not gonna lie, it totally gave off movie vibes—like Mr. Bean’s Holiday with all the chaos at Gare de Lyon in Paris, or those iconic Harry Potter moments at King’s Cross in London. It was a mashup of cinematic nostalgia! And get this—the train fare from Hua Lamphong to KMITL was just 6 Baht. Absolute bargain!
 ![Station view](img/railway-station.jpg)
 <figure>
 <figcaption>Huge!</figcaption>
@@ -41,13 +41,13 @@ After passing through the main door at the middle, we saw two trains for display
 
 ## Train view
 
-The train has no aircond so we rely on the winds when the train is moving
+The train didn’t have any air conditioning, so we just let the breeze do its thing as we chugged along.
 ![Old Train](img/old-train.jpg)
 <figure>
 <figcaption>Front view of the train</figcaption>
 </figure>
 
-It took 1 hour to reach to KMITL from Hua Lamphong Railway Station. Along the way, the view was very nice...
+It took about an hour to get from Hua Lamphong to KMITL, but the scenery along the way was honestly pretty awesome.
 
 
 ![train moving](img/week12-train-move2.gif)
@@ -67,7 +67,7 @@ It took 1 hour to reach to KMITL from Hua Lamphong Railway Station. Along the wa
 
 ## KMITL
 
-Upon reaching KMITL, we had our lunch first before meeting with the professors. When we reached SIT building, there were some students setting up their own booth for Open House which unfortunately not today but the tomorrow...😭
+When we finally arrived at KMITL, we grabbed some lunch before meeting the professors. At the SIT building, students were busy setting up booths for the Open House—which, sadly, was happening the next day, not today...😭
 
 ![Old Train](img/week12-open-house-setup.jpg)
 <figure>
@@ -79,14 +79,14 @@ Upon reaching KMITL, we had our lunch first before meeting with the professors. 
 <figcaption>Peace Yo</figcaption>
 </figure>
 
-When both professor reached SIT, we started our tour... It was quite unique because the building has 6 floors and compact hallways with multiple rooms.
+Once both professors showed up, our campus tour kicked off. The building was pretty unique—six floors, tight hallways, and rooms everywhere you looked.
 
 ![Old Train](img/week12-tour1.jpg)
 <figure>
 <figcaption>Start of our Tour!</figcaption>
 </figure>
 
-While touring at level 4, we bumped into this game development room that was sponsored by Metaverse. They have several vr headsets and two equipments that kinda looks like "vr space walk"... Kinda cool...
+On the fourth floor, we stumbled into a game dev room sponsored by Metaverse. There were VR headsets everywhere and some gear that looked like it belonged in a sci-fi movie—think “VR space walk.” Super cool!
 
 ![Old Train](img/week12-game-dev.gif)
 <figure>
@@ -98,20 +98,20 @@ While touring at level 4, we bumped into this game development room that was spo
 <figcaption>Game Dev Room</figcaption>
 </figure>
 
-We also went to Professor Kitsuchart Pasupa lab to see one of the workstation that they used for their AI models testing. Surprisingly enough the additional air cooler is a standing fan!
+We also checked out Professor Kitsuchart Pasupa’s lab to see one of the workstations they use for AI model testing. Fun fact: their “extra” air cooler was just a standing fan!
 
 ![Old Train](img/week12-fan-pc.jpg)
 <figure>
 <figcaption>Cool fan</figcaption>
 </figure>
 
-After the tour, two of the students from KMUTT presented their competition strategies on their recent competition (Cyber AI Cup 2025) and represents Thailand.
+After the tour, two KMUTT students shared their strategies from the recent Cyber AI Cup 2025, where they represented Thailand.
 
 ![Old Train](img/week12-presentation.jpg)
 <figure>
 <figcaption>Post presentation pic</figcaption>
 </figure>
 
-They won second place for that. Kudos to them!
+They actually took home second place—huge congrats to them!
 
 ![Old Train](img/week12-post-pic.jpg)
