@@ -1,7 +1,7 @@
 ---
 title: "Week 12: Girls' Last Tour (of BKK)"
 description: End of the line~
-slug: kmitl
+slug: girls-last-tour
 date: 2025-11-29 12:12:00+0000
 lastMod: 2025-11-29 12:12:00+0000
 authors:
