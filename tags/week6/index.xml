@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Week6 on Placeholder &amp; Co.</title><link>https://sensura-san.github.io/silly-blog/tags/week6/</link><description>Recent content in Week6 on Placeholder &amp; Co.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 10:02:21 +0000</lastBuildDate><atom:link href="https://sensura-san.github.io/silly-blog/tags/week6/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 6: Blog adventures</title><link>https://sensura-san.github.io/silly-blog/p/week-six-blog1/</link><pubDate>Sat, 18 Oct 2025 10:02:15 +0000</pubDate><guid>https://sensura-san.github.io/silly-blog/p/week-six-blog1/</guid><description>&lt;img src="https://sensura-san.github.io/silly-blog/week-six-cover.jpg" alt="Featured image of post Week 6: Blog adventures" /&gt;&lt;h1 id="the-one-hour-wait-auntie-nid-thai-tea-"&gt;The One-Hour Wait: Auntie Nid Thai Tea 🥤
+&lt;/h1&gt;&lt;p&gt;This week has been an absolute whirlwind! Andreaa and I took a deep dive into downtown Bangkok, determined to tick a major item off our bucket list: the legendary Auntie Nid Thai Tea.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/img/auntie-nid.gif"
+loading="lazy"
+alt="Auntie Nid performing her magic"
+&gt;&lt;/p&gt;
+&lt;p&gt;We arrived to find a massive queue—we’re talking a solid one-hour wait. Thankfully, the shop knows their crowd; they had a line of chairs set up so we didn&amp;rsquo;t have to stand in the heat. But was it worth the wait?&lt;/p&gt;
+&lt;p&gt;Absolutely. The shocking part wasn&amp;rsquo;t the line; it was the price. For just 1.68 SGD, we got a drink that completely lived up to the hype. Sweet, creamy, and incredibly affordable.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/img/auntie-nid-price.jpg"
+loading="lazy"
+alt="40 Thai Baht for all drinks. That’s a steal!"
+&gt;&lt;/p&gt;
+&lt;p&gt;Address: 112 Thanon Mahannop, Sao Chingcha, Phra Nakhon, Bangkok 10200&lt;/p&gt;
+&lt;h1 id="dessert-hunting-in-the-university-district-"&gt;Dessert Hunting in the University District 🍦
+&lt;/h1&gt;&lt;p&gt;After the tea, we decided to explore the vibrant streets near Chulalongkorn University. This area is buzzing with young adults and is packed with dozens of trendy cafes and restaurants.&lt;/p&gt;
+&lt;p&gt;We stumbled upon a total hidden gem called Ice Cream Somasorn.&lt;/p&gt;
+&lt;p&gt;It’s a dedicated dessert cafe that takes sundaes to the next level. We couldn&amp;rsquo;t resist ordering their best-sellers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Banana Crème Brûlée:&lt;/strong&gt; Perfectly caramelized and smooth.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kopi Tiramisu:&lt;/strong&gt; A rich, coffee-infused delight that hit the spot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/img/icecream.gif"
+loading="lazy"
+alt="Somasorn Ice Cream Signature Move"
+&gt; &lt;img src="https://sensura-san.github.io/silly-blog/img/icecream2.jpg"
+loading="lazy"
+alt="Banana Crème Brûlée &amp; Kopi Tiramisu"
+&gt;&lt;/p&gt;
+&lt;p&gt;If you are in the area, this is a sweet stop you can&amp;rsquo;t miss.&lt;/p&gt;</description></item><item><title>Week 6: Exploring RAG</title><link>https://sensura-san.github.io/silly-blog/p/week-six-project1/</link><pubDate>Sat, 18 Oct 2025 10:02:15 +0000</pubDate><guid>https://sensura-san.github.io/silly-blog/p/week-six-project1/</guid><description>&lt;img src="https://sensura-san.github.io/silly-blog/week-six-cover2.jpg" alt="Featured image of post Week 6: Exploring RAG" /&gt;&lt;h1 id="rag-testing-with-raspberry-pi-4"&gt;RAG Testing With Raspberry Pi 4
+&lt;/h1&gt;&lt;p&gt;I was curious on how to implement RAG into edge devices so I borrowed the Raspberry Pi 4 provided by IC2 and work my way through at the dorm.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/img/rp4.jpeg"
+loading="lazy"
+alt="Raspberry Pi 4"
+&gt;&lt;/p&gt;
+&lt;h1 id="choosing-the-right-embedding-models"&gt;Choosing The Right Embedding Models
+&lt;/h1&gt;&lt;p&gt;In my RAG system for Thailand climate awareness, I chose the &lt;strong&gt;sentence-transformers/multi-qa-MiniLM-L6-cos-v1&lt;/strong&gt; embedding model for document retrieval. This model is specifically designed for question-answering tasks and performs well with multi-domain queries, making it ideal for my use case where users ask various questions about Thailand&amp;rsquo;s climate data. I implemented the embedding functionality using HuggingFace Embeddings through LangChain, which allowed me to easily integrate the model with my FAISS vector store. The model efficiently converts both my document chunks and user queries into dense vector representations, enabling semantic search across my collection of PDFs, text files, and JSON documents containing Thailand climate information. I configured my system with a chunk size of 128 tokens and 20-token overlap to ensure optimal retrieval performance while maintaining context coherence.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/img/config.jpg"
+loading="lazy"
+alt="Config file"
+&gt; &lt;img src="https://sensura-san.github.io/silly-blog/img/embeddingmodels.jpg"
+loading="lazy"
+alt="Installing Libraries and Dependencies"
+&gt;&lt;/p&gt;
+&lt;h1 id="quick-evaluation"&gt;Quick Evaluation
+&lt;/h1&gt;&lt;p&gt;For evaluating my RAG system&amp;rsquo;s performance, I implemented a comprehensive evaluation framework using the RAGAS library, which provides specialized metrics for retrieval-augmented generation systems. I created a custom RagEvaluator class that measures four key metrics: context recall, faithfulness, context precision, and answer relevancy. My evaluation dataset includes carefully crafted questions about Thailand&amp;rsquo;s climate data with corresponding ground truth answers, covering topics like disaster prevention responsibilities, seasonal patterns, regional climate issues, and national adaptation plans. Additionally, I built a performance benchmarking system that measures inference speed, tokens per second, memory usage, and CPU utilization during RAG operations. This dual approach allows me to assess both the quality of my system&amp;rsquo;s responses through RAGAS metrics and its operational efficiency through performance benchmarks, ensuring my Thailand climate chatbot delivers accurate information quickly and reliably.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://sensura-san.github.io/silly-blog/img/quick-evaluation.jpg"
+loading="lazy"
+alt="RAGAS Evaluation"
+&gt;&lt;/p&gt;</description></item></channel></rss>
